@@ -1,0 +1,22 @@
+.searchBar{
+    margin-top: 10px;
+}
+
+.aqi-bar-container {
+    width: 100%;
+    height: 30px;
+    background: linear-gradient(to right, white, black);
+    position: relative;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .aqi-indicator {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background-color: black; /* Change this to white or any other color for contrast */
+    border-radius: 1px;
+  }
+  
